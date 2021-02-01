@@ -1,5 +1,6 @@
 # Macro_python
-Add and xml file and highlight the important information
+Add an xml file and the macro will highlight the important information that requires to be reviewed by a user.
+The xml file cannot be added for security reasons.
 
 The code works similar to a command in terminal. It has flags for different situations, this could be seen in the menu with the flag -h -> 
 
